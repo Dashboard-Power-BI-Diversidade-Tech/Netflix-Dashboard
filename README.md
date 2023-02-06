@@ -1,13 +1,13 @@
 # Análise de filmes e séries da Netflix
 
-Projeto final desenvolvido durante o módulo de Microsoft Power BI do programa [\<Div\>ersidade Tech](https://www.kaggle.com/datasets/shivamb/netflix-shows), promovido pela Suzano em parceria com a Ada. O projeto foi desenvolvido por:
+Projeto final desenvolvido durante o módulo de Microsoft Power BI do programa \<Div\>ersidade Tech, promovido pela Suzano em parceria com a Ada. O projeto foi desenvolvido por:
 
 - [Bruno Rammon](https://www.linkedin.com/in/bruno-r-s-souza/)
 - [Dimitri Marinho](https://www.linkedin.com/in/dimitrimarinho/)
 - [Jorge Luiz Figueira](https://www.linkedin.com/in/jorgeluizfigueira/)
 - [Marcus Almeida](https://www.linkedin.com/in/marcus-vinicius-de-souza-almeida/)
 
-No projeto, foi utilizada a base de dados “Netflix Movies and TV Shows”, que reune informações utilizadas as base de dados do IMDB e TMDB para analisar séries e filmes da Netflix, no período dos anos de 1954 até 2022.
+No projeto, foi utilizada a base de dados [“Netflix Movies and TV Shows”](https://www.kaggle.com/datasets/shivamb/netflix-shows), que reune informações utilizadas as base de dados do IMDB e TMDB para analisar séries e filmes da Netflix, no período dos anos de 1954 até 2022.
 
 - **Dicionário dos dados:**
     
