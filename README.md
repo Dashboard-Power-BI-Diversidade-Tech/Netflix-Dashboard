@@ -1,6 +1,6 @@
 # Análise de filmes e séries da Netflix
 
-Projeto final desenvolvido durante o módulo de Microsoft Power BI do programa <Div>ersidade Tech, promovido pela Suzano em parceria com a Ada. O projeto foi desenvolvido por:
+Projeto final desenvolvido durante o módulo de Microsoft Power BI do programa \<Div\>ersidade Tech, promovido pela Suzano em parceria com a Ada. O projeto foi desenvolvido por:
 
 - [Bruno Rammon](https://www.linkedin.com/in/bruno-r-s-souza/)
 - [Dimitri Marinho](https://www.linkedin.com/in/dimitrimarinho/)
